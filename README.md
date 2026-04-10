@@ -1,6 +1,6 @@
 # 🛡️ Midnight SOC | Command Center 🛰️
 
-![Midnight Logo](midnight-logo.png)
+<img src=".\midnight-logo.png)" alt="alt text" width="880" height="330">
 
 Midnight SOC, karmaşık ağ ve sunucu altyapıları için geliştirilmiş, gerçek zamanlı, platformlar arası (Windows/Linux) bir **Siber Güvenlik Operasyon Merkezi (SOC)** ve **Komuta Kontrol (C2)** platformudur.
 
